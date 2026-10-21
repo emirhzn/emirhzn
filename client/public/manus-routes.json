@@ -1,0 +1,15 @@
+{
+  "routes": [
+    { "path": "/", "title": "Genel Bakış" },
+    { "path": "/login", "title": "Hesapio Giriş" },
+    { "path": "/accountant", "title": "Muhasebeci Paneli" },
+    { "path": "/client", "title": "Müşteri Paneli" },
+    { "path": "/clients", "title": "Müşteriler" },
+    { "path": "/documents", "title": "Evraklar" },
+    { "path": "/taxes", "title": "Vergi Takvimi" },
+    { "path": "/finance", "title": "Finansal Durum" },
+    { "path": "/messages", "title": "Mesajlar" },
+    { "path": "/meetings", "title": "Toplantılar" },
+    { "path": "/meeting-room", "title": "Görüntülü Görüşme" }
+  ]
+}
